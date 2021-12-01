@@ -1,0 +1,1 @@
+Ya habia empezado este curso "the odin project" pero lo habia dejado colgado. Ahora volvi y empece con estas actividades renovadas que tiene, así puedo ponerme al dia y refrescar las cosas que ya habia aprendido.
