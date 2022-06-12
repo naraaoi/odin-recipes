@@ -1,0 +1,35 @@
+.area_titulo{
+    background-color: rgb(238, 182, 255);
+    height: 55px;
+}
+
+.area_subtitulo{
+    background-color: rgb(206, 255, 206);
+}
+
+.area_list_comidas{
+    background-color: rgb(252, 210, 245);
+}
+
+.titulo,
+.subtitulo{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(99, 64, 1);
+}
+
+.titulo{
+    font-size: 24px;
+}
+
+.subtitulo{
+    font-size: 18px;
+}
+
+.list_comidas{
+    text-align: justify;
+    font-family: monospace, Helvetica;
+    font-size: 16px;
+    color: rgb(99, 64, 1);
+}
+
